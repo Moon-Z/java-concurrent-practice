@@ -4,6 +4,8 @@ class Caculator implements Runnable{
 
 	private int number;
 	private int a;
+	private int b;
+        private int c;
 	public Caculator(int number){
 		this.number = number;
 	}
