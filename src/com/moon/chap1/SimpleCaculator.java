@@ -3,7 +3,7 @@ package com.moon.chap1;
 class Caculator implements Runnable{
 
 	private int number;
-	
+	private int a;
 	public Caculator(int number){
 		this.number = number;
 	}
