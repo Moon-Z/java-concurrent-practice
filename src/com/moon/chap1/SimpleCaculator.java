@@ -6,7 +6,6 @@ class Caculator implements Runnable{
 	private int a;
 	private int b;
         private int c;
-	private int d;
 	public Caculator(int number){
 		this.number = number;
 	}
